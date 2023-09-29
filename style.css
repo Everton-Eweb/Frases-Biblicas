@@ -71,12 +71,12 @@ h1 {
 
     #new-quote-button {
         padding: 15px 4px; /* Reduza o tamanho do botão */
-        bottom: 100px;
+        bottom: 120px;
     }
 
     #agradecimento {
         font-size: 11px;
-        bottom: 4px;
+        bottom: 20px;
     }
 }
 
