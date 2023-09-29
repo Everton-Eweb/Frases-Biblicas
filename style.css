@@ -54,10 +54,6 @@ h1 {
     transform: translateX(-50%); 
 }
 
-#new-quote-button:hover {
-    background-color: #f1ee08;
-}
-
 /* Estilos para telas menores (celulares) */
 @media (max-width: 768px) {
     body {
