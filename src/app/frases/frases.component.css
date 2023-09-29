@@ -1,0 +1,37 @@
+/* Adicione estas regras de estilo ao seu arquivo CSS */
+
+.frases-container {
+  text-align: center;
+  padding: 20px;
+  background-size: cover;
+  background-position: center;
+  color: #000000; /* Cor do texto */
+  font-family: Arial, sans-serif; /* Escolha uma fonte apropriada */
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto do título */
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #007bff; /* Cor do botão */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #3600b3; /* Cor do botão ao passar o mouse */
+}
